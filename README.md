@@ -7,6 +7,9 @@
 
 [![N|Solid](https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server/blob/Version-5/scripts/discord-button.PNG?raw=true)](https://discord.gg/mg7bVnw)
 ----------------------------------------------------------------------
+
+**Please see issues, poll of the community**
+
 **Tip**: Did you know if you click the star in the upper right, it promotes our project further on GITHUB?
 
 ### What is PlexGuide? ###
@@ -19,7 +22,7 @@ This is a community driven project. You can spot errors, update the wiki, contri
 Deluge, Emby, HTPCManager, Jackett, LetsEncrypt, Liddar, Medusa, Muximux, NGINX Reverse Proxy, NetData, NZBHydra 1 & 2, NZBGET, Organizr, Plex, PlexDrive, Portainer, Radarr, RClone, Resilio, RuTorrent, Sonnar, Tautulli (Plexpy), UnionFS, WatchTower, Wordpress (Beta) & more!
 
 ### PlexGuide - Version 5 - Coded By:
-- [Admin9705](https://github.com/Admin9705), [Deiteq](https://github.com/Deiteq) & [The Creator](https://github.com/TheCreatorzOne) 
+- [Admin9705](https://github.com/Admin9705), [Deiteq](https://github.com/Deiteq), [The Creator](https://github.com/TheCreatorzOne) & [Budman17r](https://github.com/Budman17r)
 
 ### Awesome Team Members, Advisors, Contributors & Beta Testers!
 - Augie, [AugusDogus](https://github.com/AugusDogus), [Bate](https://github.com/batedk), cocainbiceps, [daveftw84](https://github.com/daveftw84), [DesignGears](https://github.com/designgears), [Desimanic](https://github.com/desimaniac), Jackalblood, imes, NickUK, Pentaganos, trustyfox, [Rothuith](https://github.com/Rothuith), simon021, SpencerUK
@@ -40,6 +43,17 @@ Deluge, Emby, HTPCManager, Jackett, LetsEncrypt, Liddar, Medusa, Muximux, NGINX 
 
 - Bitcoin : 1H3SD3ef6qaN8ND8S8ZQCaEyD4pMW4kFsA
 - LiteCoin: LbCDaq26N39TuUarBkrxTXNFjsNWds9Ktj
+
+### Contribute to the PlexGuide Project
+- First, click the **Star** in the upper right to promte the project!
+- Next, Fork the Best Project Ever (because you want to make it better!)
+- Clone the Project: 
+  - ```sudo git clone http://github.com/<username>/PlexGuide.com-The-Awesome-Plex-Server /opt/plexguide```
+  - **Note:** It will clone it in the location of /opt/plexguide
+- Develop a Featured Branch: ```sudo git checkout -b my-awesome-sauce-feature Version-5```
+- Commit Changes: ```sudo git commit -am 'My Awesome Sauce Feature' ```
+- Push to the Branch: ```sudo git push origin my-awesome-sauce-feature```
+- Submit a Pull Request
 
 ----------------------------------------------------------------------
 
